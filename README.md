@@ -6,4 +6,5 @@ A set of development tools for CS-Cart. This is not recommended for production s
 - Forced error log display
 - On click input field logging
 - Custom persistant notification
+- Custom admin styles
 - More to come
