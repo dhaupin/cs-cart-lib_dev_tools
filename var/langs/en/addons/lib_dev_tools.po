@@ -1,0 +1,100 @@
+msgid ""
+msgstr "Project-Id-Version: tygh"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::lib_dev_tools"
+msgid "Library - Developer Tools"
+msgstr "Library - Developer Tools"
+
+msgctxt "Addons::description::lib_dev_tools"
+msgid "Adds various development tools to admin and catalog."
+msgstr "Adds various development tools to admin and catalog."
+
+#. .....................................................
+msgctxt "SettingsOptions::lib_dev_tools::addon_general"
+msgid "General Settings"
+msgstr "General Settings"
+
+#. .....................................................
+msgctxt "SettingsOptions::lib_dev_tools::dev_noindex"
+msgid "No-Index Mode"
+msgstr "No-Index Mode"
+
+msgctxt "SettingsTooltips::lib_dev_tools::dev_noindex"
+msgid "Sets noindex headers in admin and catalog. This will prevent Google and othter bots from including your site in search results."
+msgstr "Sets noindex headers in admin and catalog. This will prevent Google and othter bots from including your site in search results."
+
+#. .....................................................
+msgctxt "SettingsOptions::lib_dev_tools::dev_error_log"
+msgid "Force Error Log?"
+msgstr "Force Error Log?"
+
+msgctxt "SettingsTooltips::lib_dev_tools::dev_error_log"
+msgid "Attempt to force visual error display/logging."
+msgstr "Attempt to force visual error display/logging."
+
+#. .....................................................
+msgctxt "SettingsOptions::lib_dev_tools::dev_input_log"
+msgid "Log Input Click to Console?"
+msgstr "Log Input Click to Console?"
+
+msgctxt "SettingsTooltips::lib_dev_tools::dev_input_log"
+msgid "Log properties of input, textarea, and select to browser console."
+msgid "Log properties of input, textarea, and select to browser console."
+
+#. .....................................................
+msgctxt "SettingsOptions::lib_dev_tools::dev_admin_bg"
+msgid "Fancy Admin Background"
+msgstr "Fancy Admin Background"
+
+msgctxt "SettingsTooltips::lib_dev_tools::dev_admin_bg"
+msgid "Replaces the admin background with a multi-colored fader."
+msgstr "Replaces the admin background with a multi-colored fader."
+
+#. .....................................................
+msgctxt "SettingsOptions::lib_dev_tools::dev_admin_css"
+msgid "Custom Admin CSS"
+msgstr "Custom Admin CSS"
+
+msgctxt "SettingsTooltips::lib_dev_tools::dev_admin_css"
+msgid "Allows you to insert custom CSS into the admin areas. Do not include the <style> tags."
+msgstr "Allows you to insert custom CSS into the admin areas. Do not include the <style> tags."
+
+#. .....................................................
+msgctxt "SettingsOptions::lib_dev_tools::dev_notification"
+msgid "Display Notification?"
+msgstr "Display Notification?"
+
+msgctxt "SettingsTooltips::lib_dev_tools::dev_notification"
+msgid "Displays a persistant notification to all visitors."
+msgstr "Displays a persistant notification to all visitors."
+
+#. .....................................................
+msgctxt "SettingsOptions::lib_dev_tools::dev_notification_str"
+msgid "Notification Message"
+msgstr "Notification Message"
+
+msgctxt "SettingsTooltips::lib_dev_tools::dev_notification_str"
+msgid "Message for the notification."
+msgstr "Message for the notification."
+
+#. .....................................................
+msgctxt "SettingsOptions::lib_dev_tools::addon_tools"
+msgid "Addon Tools"
+msgstr "Addon Tools"
+
+#. .....................................................
+msgctxt "SettingsOptions::lib_dev_tools::dev_enable"
+msgid "Enable Addon?"
+msgstr "Enable Addon?"
+
+msgctxt "SettingsTooltips::lib_dev_tools::dev_enable"
+msgid "Allows you to enable/disable this addon on a per-store basis."
+msgstr "Allows you to enable/disable this addon on a per-store basis."
+
+#. .....................................................
+msgctxt "Languages::lib_dev_tools"
+msgid "Developer Tools"
+msgstr "Developer Tools"
