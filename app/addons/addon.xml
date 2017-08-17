@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<addon scheme="3.0" edition_type="ROOT,ULT:VENDOR">
+	<id>lib_dev_tools</id>
+	<version>1.0</version>
+	<priority>1000000</priority>
+	<position>0</position>
+	<status>active</status>
+	<default_language>en</default_language>
+	<compatibility>
+		<dependencies>lib_x_r_debug</dependencies>
+	</compatibility>
+	<authors>
+		<author>
+			<name>Dhaupin - CreadevDotOrg</name>
+			<email>dhaupin@creadev.org</email>
+			<url>https://creadev.org</url>
+		</author>
+	</authors>
+	<settings>
+		<sections>
+			<section id="general">
+				<items>
+					<item id="addon_general">
+						<type>header</type>
+						<handler></handler>
+					</item>
+					<item id="dev_noindex">
+						<type>checkbox</type>
+						<default_value>Y</default_value>
+					</item>
+					<item id="dev_error_log">
+						<type>checkbox</type>
+						<default_value>Y</default_value>
+					</item>
+					<item id="dev_input_log">
+						<type>checkbox</type>
+						<default_value>N</default_value>
+					</item>
+					<item id="dev_admin_bg" edition_type="ROOT">
+						<type>checkbox</type>
+						<default_value>Y</default_value>
+					</item>
+					<item id="dev_admin_css" edition_type="ROOT">
+						<type>textarea</type>
+					</item>
+					<item id="dev_notification">
+						<type>checkbox</type>
+						<default_value>Y</default_value>
+					</item>
+					<item id="dev_notification_str">
+						<type>textarea</type>
+						<default_value><![CDATA[This is a development install. No orders will be processed.]]></default_value>
+					</item>
+					<item id="addon_tools">
+						<type>header</type>
+						<handler></handler>
+					</item>
+					<item id="dev_enable">
+						<type>checkbox</type>
+						<default_value>Y</default_value>
+					</item>
+				</items>
+			</section>
+		</sections>
+	</settings>
+</addon>
